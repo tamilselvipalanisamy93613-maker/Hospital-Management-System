@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040460
+# Name: TAMILSELVI P
+# Date: 24.11.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1231" height="948" alt="Hospital management system" src="https://github.com/user-attachments/assets/88c37138-3ca0-487a-9ea5-191ad4cb7af0" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1232" height="897" alt="Hospital management system class diagram" src="https://github.com/user-attachments/assets/5b2ea38e-705a-4bbb-b2b7-d378277a4bc6" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1222" height="937" alt="Hospital management System" src="https://github.com/user-attachments/assets/3c42666e-6d66-4cfb-bd9f-d11c68410a05" />
 
 
 # PACKAGE DIAGRAM:
@@ -80,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1237" height="890" alt="Hospital management system" src="https://github.com/user-attachments/assets/9690a5ff-3ed5-4fe2-8430-e96e4cb5817b" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1232" height="948" alt="Hospital management System" src="https://github.com/user-attachments/assets/369935eb-4819-4ea2-af83-8a2fd5159119" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1225" height="950" alt="Hospital" src="https://github.com/user-attachments/assets/3113eab8-1fd4-4d42-85c4-ab8709c29c5c" />
 
 
 
